@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6xVFbyTpwTaZOUWFGQ8gk/1f3Vvnf/bfHrfUXBNgKR2TSVCG0c4BJ+9RxvJt7XIi1RA4d0olt5ZCPDVMuVoNWA==",
+  "dgSpecHash": "TkSJMW0FDei+b33dnY80Bh01NwxDqJvOccDJD7tiSQYDtKMRQ38ANYlks3yyuiIYjqKODnKcV8ibQk2bsyg0Ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\babas\\Documents\\GitHub\\FirstRepository\\Lab3\\Backups\\Backups.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\babas\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+    "C:\\Users\\babas\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\babas\\.nuget\\packages\\zio\\0.16.2\\zio.0.16.2.nupkg.sha512"
   ],
   "logs": []
 }

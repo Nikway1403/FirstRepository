@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E+jPqftq3rg/0+3C5hg7V/Scx6hXKeCifr7nLQ/nhsgnhCAYfuqD6KfY0oEiLywtyve4wvQX4dVdlHD+mLYoqg==",
+  "dgSpecHash": "S1KPKIHedaAQGJRTllJ1+oGKLDsLSFXwTFmhB71ZLcOA4sQ1iyx/Cxpln9Zf6vJ2zD0d+F83G7kflMrK0DRbVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\babas\\Documents\\GitHub\\FirstRepository\\Lab3\\Backups.Test\\Backups.Test.csproj",
   "expectedPackageFiles": [
@@ -96,7 +96,8 @@
     "C:\\Users\\babas\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\babas\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\babas\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\babas\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\babas\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\babas\\.nuget\\packages\\zio\\0.16.2\\zio.0.16.2.nupkg.sha512"
   ],
   "logs": []
 }
