@@ -1806,9 +1806,25 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Zio/0.16.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zio.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Zio.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Backups/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Zio": "0.16.2"
+        },
         "compile": {
           "bin/placeholder/Backups.dll": {}
         },
@@ -6135,6 +6151,29 @@
         "logo-512-transparent.png",
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
+      ]
+    },
+    "Zio/0.16.2": {
+      "sha512": "97pJJwI+mn4+Hjfiim2rK9Kocyi1U90wDeOlTFh4FwIrntbaBu0vjLFhjNwlJl9oEkgi+U22xy5WGovw+PnEOg==",
+      "type": "package",
+      "path": "zio/0.16.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Zio.dll",
+        "lib/net40/Zio.xml",
+        "lib/net45/Zio.dll",
+        "lib/net45/Zio.xml",
+        "lib/net6.0/Zio.dll",
+        "lib/net6.0/Zio.xml",
+        "lib/netstandard2.0/Zio.dll",
+        "lib/netstandard2.0/Zio.xml",
+        "lib/netstandard2.1/Zio.dll",
+        "lib/netstandard2.1/Zio.xml",
+        "readme.md",
+        "zio.0.16.2.nupkg.sha512",
+        "zio.nuspec",
+        "zio.png"
       ]
     },
     "Backups/1.0.0": {
